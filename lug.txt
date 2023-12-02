@@ -1,0 +1,20 @@
+Hey, Linux members! We're excited to drop a line of code and invite you to the grandest bash in cyberspace - the Cyber-0-Day 2.0 Workshop Series by the Linux Club! 🌐💻
+
+📆 Workshop Dates: Sunday to Thursday
+⏰ Workshop Timing: 9:30 PM - 11:30 PM
+
+Brace yourselves, we're about to "kernel" all your doubts with a "root"-astic workshop lineup:
+
+Wednesday: OSINT & Crypto (9:00 PM - 11:00 PM) - Be a digital Sherlock Holmes and decipher crypto enigmas!
+Thursday: Binary Exploitation (9:00 PM - 10:00 PM) - Dive into the matrix and "bit" your way to success!
+Tuesday: Web Exploitation (9:00 PM - 10:00 PM) - Weave your web of cybersecurity mastery!
+Sunday: Linux Basics (2:00 PM - 3:30 PM) - Let's "penguin-dance" through Linux's labyrinth!
+
+Get ready to geek out, as we navigate these byte-sized adventures! Remember to set your "alarm-daemon" and "sudo" mark your calendars, as the Linux Club can't wait to see you in action at these workshops.
+
+If you've got questions or need more Linux "kernel"-ledge, drop us a line. Let's embark on this nerdy journey together and "sudo make" your way to Linux and cybersecurity expertise!
+
+🚀🤓 Keep your terminal ready, your penguin spirit high, and let's code our way to glory!
+
+Geeky regards,
+Linux Club 🚀🐧🤖
