@@ -1,0 +1,17 @@
+Subject: Invitation for Free Docker workshop
+
+Dear VITians,
+
+We hope this email finds you well. The Linux Club is excited to announce a free dynamic online workshop on Docker, a cutting-edge technology that is revolutionizing the world of software development. This event will be hosted by esteemed Vice President, Mr. Aditya Kushwaha, who brings a wealth of experience and expertise in Docker and containerization.
+
+Event Details:-
+
+Event Name: Docker
+Date: 24.12.2023
+Time: 8:00 pm - 9:00 pm
+Mode: Online
+
+Regards,
+The Linux Club
+
+
