@@ -10,3 +10,4 @@ I am a part of the Linux Users Group and this repository is the storage of all m
   - Event timeline and Description
 - Docker Wokshop:
   - Email
+  - Whatsapp invite
