@@ -11,3 +11,6 @@ I am a part of the Linux Users Group and this repository is the storage of all m
 - Docker Wokshop:
   - Email
   - Whatsapp invite
+- PASSWORD:
+  - VITC events
+  - Unstop
