@@ -1,0 +1,11 @@
+Capture The Flag (CTF) Cybersecurity Event
+
+Event Details:
+
+    Name: CTF Cybersecurity Event
+    Hosted By: The Linux Club VITC
+    Date: 
+    Time: 
+    Entry Fee: Rs. 
+
+    Linux Club presents a 24-hour cybersecurity challenge, featuring Jeopardy Style CTF with a visible grid of challenges and a dynamic points system. Additionally, an Attack-Defense Style CTF places teams in 10 factions with dedicated servers for a real-world simulation. Faction allocation is based on Jeopardy Style CTF scores, and winners are determined by the combined points from both CTF styles, with the top three teams securing victory. Goodies will be provided for all teams in the winning faction. This event promises an intense, hands-on experience for participants, blending competition and skill development in the realm of cybersecurity.
