@@ -14,3 +14,5 @@ I am a part of the Linux Users Group and this repository is the storage of all m
 - PASSWORD:
   - VITC events
   - Unstop
+  - LinkedIn
+  - Whatsapp promo
